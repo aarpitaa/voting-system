@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Ballot"},{"p":"<Unnamed>","l":"Candidate"},{"p":"<Unnamed>","l":"Controller"},{"p":"<Unnamed>","l":"ElectionType"},{"p":"<Unnamed>","l":"FileProcessor"},{"p":"<Unnamed>","l":"MPOElection"},{"p":"<Unnamed>","l":"OPLElection"},{"p":"<Unnamed>","l":"Party"}];updateSearchResults();

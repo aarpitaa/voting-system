@@ -1,0 +1,48 @@
+
+OPL ELECTION AUDIT FILE
+Round 1 Allocations
+Total Seats: 3
+Current Seats Left: 2
+Seat Quota: 3
+Party Name   |   Total Votes   |   Seats Assigned   |   Remainder Votes  
+R   |   3   |   1   |   0
+
+D   |   5   |   0   |   0
+
+I   |   1   |   0   |   0
+
+OPL ELECTION AUDIT FILE
+Round 1 Allocations
+Total Seats: 3
+Current Seats Left: 1
+Seat Quota: 3
+Party Name   |   Total Votes   |   Seats Assigned   |   Remainder Votes  
+R   |   3   |   1   |   0
+
+D   |   5   |   1   |   2
+
+I   |   1   |   0   |   0
+
+OPL ELECTION AUDIT FILE
+Round 1 Allocations
+Total Seats: 3
+Current Seats Left: 1
+Seat Quota: 3
+Party Name   |   Total Votes   |   Seats Assigned   |   Remainder Votes  
+R   |   3   |   1   |   0
+
+D   |   5   |   1   |   2
+
+I   |   1   |   0   |   1
+
+OPL ELECTION AUDIT FILE
+Round 2 Allocations
+Total Seats: 3
+Current Seats Left: 0
+Seat Quota: 3
+Party Name   |   Total Votes   |   Seats Assigned   |   Remainder Votes  
+R   |   3   |   1   |   0
+
+D   |   5   |   2   |   0
+
+I   |   1   |   0   |   1
